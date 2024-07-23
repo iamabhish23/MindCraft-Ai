@@ -1,7 +1,7 @@
 # MindCraft-AI
 
 ## Overview
-MindCraft-AI is an AI-SaaS platform designed to enhance creativity and productivity through AI-powered tools. Launched in December 2023, the platform offers functionalities including conversational bots, code generation, image creation, video production, and music composition.
+MindCraft-AI is an AI-SaaS platform designed to enhance creativity and productivity through AI-powered tools. The platform offers functionalities including conversational bots, code generation, image creation, video production, and music composition.
 
 ## Features
 - **Conversational Bot**: Dynamic interactions powered by OpenAI models.
@@ -28,7 +28,7 @@ To get started with MindCraft-AI:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/MindCraft-AI.git
+   git clone https://github.com/iamabhish23/MindCraft-AI.git
    ```
 2. **Navigate to the project directory**:
    ```bash
