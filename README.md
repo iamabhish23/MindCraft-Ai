@@ -1,6 +1,3 @@
-Sure, here's a GitHub README for your MindCraft-AI project:
-
-```markdown
 # MindCraft-AI
 
 ## Overview
@@ -48,7 +45,6 @@ To get started with MindCraft-AI:
    npm run dev
    ```
 
-## Contributing
 We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) to learn how you can help.
 
 ## License
